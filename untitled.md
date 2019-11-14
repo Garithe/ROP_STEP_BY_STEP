@@ -1,6 +1,6 @@
 # head
 
-\\(e=mc^{2}\\)
+$e=mc^{2}$
 
 ```
 import numpy as np
