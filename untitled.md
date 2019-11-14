@@ -1,7 +1,6 @@
 # head
 
-$e=mc^{2}$
-
+![](http://latex.codecogs.com/gif.latex?\\e=mc^{2})
 ```
 import numpy as np
 ```
